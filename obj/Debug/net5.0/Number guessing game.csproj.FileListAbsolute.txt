@@ -1,0 +1,16 @@
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\bin\Debug\net5.0\Number guessing game.exe
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\bin\Debug\net5.0\Number guessing game.deps.json
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\bin\Debug\net5.0\Number guessing game.runtimeconfig.json
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\bin\Debug\net5.0\Number guessing game.runtimeconfig.dev.json
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\bin\Debug\net5.0\Number guessing game.dll
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\bin\Debug\net5.0\ref\Number guessing game.dll
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\bin\Debug\net5.0\Number guessing game.pdb
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\Number guessing game.csproj.AssemblyReference.cache
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\Number guessing game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\Number guessing game.AssemblyInfoInputs.cache
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\Number guessing game.AssemblyInfo.cs
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\Number guessing game.csproj.CoreCompileInputs.cache
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\Number guessing game.dll
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\ref\Number guessing game.dll
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\Number guessing game.pdb
+C:\Users\Ryoda\source\repos\Number guessing game\Number guessing game\obj\Debug\net5.0\Number guessing game.genruntimeconfig.cache
