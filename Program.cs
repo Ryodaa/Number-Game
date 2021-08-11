@@ -6,9 +6,7 @@ namespace Number_guessing_game
     {
         static void Main(string[] args)
         {
-            int programmLoop = 1;
-            while (programmLoop > 0)
-
+            while (true)
             {
 
                 Random random = new System.Random();
